@@ -10,9 +10,11 @@ const Hero = () => {
             width={300} height={300} 
             alt="Caio personal foto"
             />
-            <h1>Olá eu so Caio 👋</h1>
+            <h1>Olá eu sou Caio 👋</h1>
             <p>
-                eu sou um desenvolvedor de software, eu tenho familirialidade com front-end e back-end 
+            Sou um desenvolvedor de software com experiência tanto em front-end 
+            quanto em back-end, demonstrando habilidades satisfatórias em 
+            ambas as áreas.
                 
             </p>
             <div className="social-icons">
@@ -36,5 +38,6 @@ const Hero = () => {
         </div>
     )
 }
+
 
 export default Hero

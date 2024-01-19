@@ -1,7 +1,12 @@
 import Hero from "@/compoents/Hero";
+import Skills from "@/compoents/Skills";
+import Projects from "@/compoents/Projects";
+import Contacts from "@/compoents/Contact";
 
 
 import Head from "next/head";
+import Sobre from "@/compoents/Sobre";
+
 
 const Home = () => {
     return (
@@ -10,11 +15,14 @@ const Home = () => {
                 <title>Caio portfolio</title>
                 <meta name="description" content="caio portfolio" />
 				<meta name="viewport" content="width=device-width, initial-scale=1" />
-				<link rel="icon" href="/favicon.jpeg" />
             </Head>
             <div>
-                <Hero />
-            </div>
+				<Hero />
+                <Sobre />
+				<Skills />
+				<Projects />
+				<Contacts />
+			</div>
         </>
     )
 }

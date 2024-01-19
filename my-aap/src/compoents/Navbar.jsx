@@ -8,7 +8,7 @@ const Navbar = () => {
                     Caio
                 </Link>
             </div>
-            <a href="" className="cta-btn">Resume</a>
+            <a href="https://docs.google.com/document/d/1veP0uWg_yYiDjB6TfXa8u7UXtM3ZqadIgkULy0NpcH8/edit" className="cta-btn">Resume</a>
         </div>
     )
 }
