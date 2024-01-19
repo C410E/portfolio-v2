@@ -30,6 +30,28 @@
   li {
     list-style: none;
   }
+
+  .link {
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+    /* cursor: pointer; */
+  }
+
+  .link::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background: #FFCC1A;
+    transition: width .3s;
+  }
+
+  .link:hover::after {
+    width: 100%;
+  }
   
   /* Navbar */
   .nav-container {
