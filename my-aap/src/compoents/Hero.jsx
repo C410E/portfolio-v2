@@ -12,10 +12,10 @@ const Hero = () => {
             />
             <h1>Olá eu sou Caio 👋</h1>
             <p>
-            Sou um desenvolvedor de software com experiência tanto em front-end 
-            quanto em back-end, demonstrando habilidades satisfatórias em 
-            ambas as áreas' - 
-                
+                Sou desenvolvedor de software com experiência em front-end e back-end, 
+                capaz de atuar em todas as etapas do ciclo de desenvolvimento. Tenho 
+                domínio das principais tecnologias e metodologias da área, 
+                entregando soluções eficientes, escaláveis e bem estruturadas.
             </p>
             <div className="social-icons">
             <a

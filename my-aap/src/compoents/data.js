@@ -26,8 +26,14 @@ export const projectData = [
     },
     {
         id: 5,
-        title: "Api library",
-        description: "Pequena Api com express que cadastra informações sobre livros e autores.",
-        githubLink: "https://github.com/C410E/api-library"
+        title: "Lading page RDC",
+        description: "Lading page que construi para a empresa RDC.",
+        githubLink: "https://lp-rdc.vercel.app/"
     },
+    {
+        id: 6,
+        title: "Catalogo de produtos",
+        description: "Projeto simples de um catalogo de produtos com carrinho de compras.",
+        githubLink: "https://catalogo-de-produtos-five.vercel.app/"
+    }
 ]
