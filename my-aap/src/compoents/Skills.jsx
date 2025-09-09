@@ -4,7 +4,9 @@ import {
     FaJsSquare, 
     FaReact, 
     FaNodeJs, 
+    FaLaravel
 } from "react-icons/fa";
+import { RiTailwindCssFill } from "react-icons/ri";
 import { TbBrandNextjs } from "react-icons/tb";
 import { BiLogoTypescript } from "react-icons/bi"
 
@@ -20,6 +22,10 @@ const Skills = () => {
                 <div className="skill-card css">
                     <FaCss3 className="fa-brands fa-css3-alt css-icon"/>
                     <p>CSS</p>
+                </div>
+                <div className="skill-card html">
+                    <FaLaravel className="fa-brands fa-css3-alt css-icon"/>
+                    <p>Laravel</p>
                 </div>
                 <div className="skill-card js">
                     <FaJsSquare className="fa-brands fa-js-square js-icon"/>
