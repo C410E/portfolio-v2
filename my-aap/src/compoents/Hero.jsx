@@ -14,7 +14,7 @@ const Hero = () => {
             <p>
             Sou um desenvolvedor de software com experiência tanto em front-end 
             quanto em back-end, demonstrando habilidades satisfatórias em 
-            ambas as áreas.
+            ambas as áreas' - '
                 
             </p>
             <div className="social-icons">
