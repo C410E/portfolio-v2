@@ -8,7 +8,7 @@ const Navbar = () => {
                     Caio
                 </Link>
             </div>
-            <a href="https://github.com/OIACE/Resume" className="cta-btn">Resume</a>
+            <Link href="/resume" className="cta-btn">Resume</Link>
         </div>
     )
 }
