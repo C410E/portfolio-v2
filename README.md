@@ -12,7 +12,7 @@ Este é o repositório do meu portfólio pessoal, construído usando Next. Neste
 * Informações de contato para que você possa entrar em contato comigo.
 
 # Como Executar o Projeto Localmente
-* peque o ssh
+* copie o ssh
 * git clone
 * npm insatll
 * npm run dev
